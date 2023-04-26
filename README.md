@@ -5,6 +5,7 @@
   - [codecademy Cheatsheets](https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-types/cheatsheet)
   - [codecademy Lesson](https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/what-is-typescript)
   - [TypeScript HandBook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+  - [youtube](https://www.youtube.com/watch?v=GinkGJZBHIY)
 
 - [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#handbook-content) 
 
