@@ -11,7 +11,7 @@
 
 1. npm init
 2. npm install typescript --save-dev
-3. tsc init  (create tsconfig.json)
+3. npx tsc init  (create tsconfig.json)
 
 ```
 "compilerOptions": {
